@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "discord-reply": "^0.1.2",
+    "dotenv": "^16.3.1",
+    "tesseract.js": "^4.1.1"
+  }
+}
